@@ -93,10 +93,6 @@ Analizar el rendimiento del sistema de forma avanzada mediante contadores de ren
 
 👉 El sistema presenta un funcionamiento normal.
 
----
-
-## 📸 Captura
-(Añadir aquí la captura del Performance Monitor con los contadores activos)
 
 ---
 
